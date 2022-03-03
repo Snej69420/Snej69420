@@ -8,7 +8,6 @@
 using namespace std;
 
 int main(){
-    cout << "Suffering is the way through life." << endl;
+    cout << "I'm pleasently surprised that it still works." << endl;
     return 0;
 }
-
